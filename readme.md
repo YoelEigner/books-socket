@@ -12,7 +12,7 @@ git clone https://github.com/YoelEigner/books-socket.git
 ```
 2. Navigate into the cloned repository using 
 ```bash
-cd task-api
+cd books-socket
 ```
 3. Install the project dependencies using
 ```bash
